@@ -1,2 +1,2 @@
 # Sockect
-Socket编程学习笔记。在计算机网络课程中，相关的Sockets编程。
+Socket编程学习笔记。计算机网络课程中，Sockets编程上机，TCP聊天室服务端和客户端。
